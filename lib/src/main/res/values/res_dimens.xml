@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- 边框宽度 -->
+    <dimen name="res_stroke_s">1px</dimen>
+    <dimen name="res_stroke_m">1dp</dimen>
+
+    <!-- 圆角半径 -->
+    <dimen name="res_corner_s">5dp</dimen>
+    <dimen name="res_corner_m">10dp</dimen>
+    <dimen name="res_corner_l">30dp</dimen>
+
+    <!-- 标题文字（大） -->
+    <dimen name="res_text_l">16sp</dimen>
+    <!-- 内容文字（中） -->
+    <dimen name="res_text_m">14sp</dimen>
+    <!-- 内容文字（小） -->
+    <dimen name="res_text_s">12sp</dimen>
+
+    <!-- 输入框高度 -->
+    <dimen name="res_height_edit">40dp</dimen>
+    <!-- 按钮高度 -->
+    <dimen name="res_height_button">40dp</dimen>
+
+</resources>
