@@ -1,4 +1,4 @@
-package com.fanwe.lib.res;
+package cn.linhome.lib.res;
 
 /**
  * des:
